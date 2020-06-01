@@ -1,5 +1,4 @@
-# primer_repo
+# Actividades
 
-Hola, mi nombre es Stefano, soy de Argentina, Cordoba. 
-
-Mi idea en GitHub es poder crear un lugar donde juntar todo mi codigo.
+Repositorio donde se muestran las actividades dadas en el primer año de Licenciatura en Computacion
+en la Universidad Nacional de Rio Cuarto, de la materia "Algoritmica y Programacion".
